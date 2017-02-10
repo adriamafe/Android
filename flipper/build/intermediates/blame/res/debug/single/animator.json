@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/adriamartinez/Documents/FinalProject/flipper/build/intermediates/res/merged/debug/animator/flip.xml",
+        "source": "/Users/adriamartinez/Documents/FinalProject/flipper/src/main/res/animator/flip.xml"
+    },
+    {
+        "merged": "/Users/adriamartinez/Documents/FinalProject/flipper/build/intermediates/res/merged/debug/animator/flip_end.xml",
+        "source": "/Users/adriamartinez/Documents/FinalProject/flipper/src/main/res/animator/flip_end.xml"
+    }
+]

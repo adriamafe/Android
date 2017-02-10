@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/adriamartinez/Documents/FinalProject/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/adriamartinez/Documents/FinalProject/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/adriamartinez/Documents/FinalProject/app/build/intermediates/res/merged/debug/menu/menu_common.xml",
+        "source": "/Users/adriamartinez/Documents/FinalProject/app/src/main/res/menu/menu_common.xml"
+    },
+    {
+        "merged": "/Users/adriamartinez/Documents/FinalProject/app/build/intermediates/res/merged/debug/menu/bottom.xml",
+        "source": "/Users/adriamartinez/Documents/FinalProject/app/src/main/res/menu/bottom.xml"
+    },
+    {
+        "merged": "/Users/adriamartinez/Documents/FinalProject/app/build/intermediates/res/merged/debug/menu/menu_calculadora.xml",
+        "source": "/Users/adriamartinez/Documents/FinalProject/app/src/main/res/menu/menu_calculadora.xml"
+    },
+    {
+        "merged": "/Users/adriamartinez/Documents/FinalProject/app/build/intermediates/res/merged/debug/menu/menu_memory.xml",
+        "source": "/Users/adriamartinez/Documents/FinalProject/app/src/main/res/menu/menu_memory.xml"
+    }
+]

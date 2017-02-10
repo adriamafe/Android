@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        >
+        <item android:id="@+id/toast_notifications"
+            android:title="@string/Toast"/>
+        <item android:id="@+id/state_notifications"
+            android:title="@string/State"/>
+    </group>
+    <item
+        android:title="@string/Phone"
+        android:id="@+id/phone"
+        android:icon="@drawable/ic_call_black_24dp"
+        android:showAsAction="always"/>
+    <item
+        android:title="@string/Browser"
+        android:id="@+id/browser"
+        />
+</menu>

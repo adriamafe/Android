@@ -1,0 +1,7 @@
+#Tue Feb 07 10:37:33 CET 2017
+base.0=/Users/adriamartinez/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_662fb9638c4b08a95bea2bd5c7e2556fd455aaef
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/adriamartinez/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e4afcee77857cd1b235eaf4920dceb7d0ed99d83/classes.dex
+base.1=/Users/adriamartinez/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e4afcee77857cd1b235eaf4920dceb7d0ed99d83
+file.0=/Users/adriamartinez/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_662fb9638c4b08a95bea2bd5c7e2556fd455aaef/classes.dex

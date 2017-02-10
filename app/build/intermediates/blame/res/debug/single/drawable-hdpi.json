@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/adriamartinez/Documents/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_person_outline_black_24dp.png",
+        "source": "/Users/adriamartinez/Documents/FinalProject/app/build/generated/res/pngs/debug/drawable-hdpi/ic_person_outline_black_24dp.png"
+    },
+    {
+        "merged": "/Users/adriamartinez/Documents/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_call_black_24dp.png",
+        "source": "/Users/adriamartinez/Documents/FinalProject/app/build/generated/res/pngs/debug/drawable-hdpi/ic_call_black_24dp.png"
+    },
+    {
+        "merged": "/Users/adriamartinez/Documents/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_audiotrack_black_24dp.png",
+        "source": "/Users/adriamartinez/Documents/FinalProject/app/build/generated/res/pngs/debug/drawable-hdpi/ic_audiotrack_black_24dp.png"
+    },
+    {
+        "merged": "/Users/adriamartinez/Documents/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_view_comfy_black_24dp.png",
+        "source": "/Users/adriamartinez/Documents/FinalProject/app/build/generated/res/pngs/debug/drawable-hdpi/ic_view_comfy_black_24dp.png"
+    },
+    {
+        "merged": "/Users/adriamartinez/Documents/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_backspace_black_24dp.png",
+        "source": "/Users/adriamartinez/Documents/FinalProject/app/build/generated/res/pngs/debug/drawable-hdpi/ic_backspace_black_24dp.png"
+    },
+    {
+        "merged": "/Users/adriamartinez/Documents/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_wb_sunny_black_24dp.png",
+        "source": "/Users/adriamartinez/Documents/FinalProject/app/build/generated/res/pngs/debug/drawable-hdpi/ic_wb_sunny_black_24dp.png"
+    }
+]
